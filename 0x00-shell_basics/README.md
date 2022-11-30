@@ -1,1 +1,1 @@
-a script that prints files
+a symbolic link
