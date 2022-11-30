@@ -1,1 +1,1 @@
-a script that deletes files
+a script that deletes directory
